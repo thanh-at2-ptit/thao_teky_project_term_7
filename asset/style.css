@@ -1,0 +1,11 @@
+.row1 {
+    font-size: 15px;
+line-height: 1.5;
+font-family: "Raleway", sans-serif;
+box-sizing: inherit;
+padding: 12px 24px;
+padding-top: 32px;
+padding-bottom: 32px;
+color: #000;
+background-color: #f1f1f1;
+}
